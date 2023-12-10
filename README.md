@@ -12,8 +12,8 @@
 最低气温: {{min_temperature.DATA}}
 最高气温: {{max_temperature.DATA}}
 
-💌{{birthday1.DATA}}
-💌{{birthday2.DATA}}
+🎂{{birthday1.DATA}}
+🎂{{birthday2.DATA}}
 
 今天也要多喝水哦(^▽^)
 

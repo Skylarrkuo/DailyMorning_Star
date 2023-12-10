@@ -17,7 +17,7 @@
 
 今天也要多喝水哦(^▽^)
 
-👋每日金句<
+👋每日金句
 ☀{{note_en.DATA}}{{note_en2.DATA}}
 ☀{{note_ch.DATA}}{{note_ch2.DATA}}
 ```
